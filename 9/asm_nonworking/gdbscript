@@ -1,0 +1,4 @@
+delete breakpoints
+load
+break nCr
+run
